@@ -1,0 +1,43 @@
+ 1  cat Pets.txt PackAnimals.txt
+    2  cat Pets.txt
+    3  ls
+    4  touch Pet.txt
+    5  touch PackAnimals.txt
+    6  ls
+    7  cat Pet.txt 
+    8  ls
+    9  nano Pet.txt 
+   10  cat Pet.txt 
+   11  nano PackAnimals.txt 
+   12  cat PackAnimals.txt 
+   13  сcat Pet.txt PackAnimals.txt > HumanFriends.txt
+   14  �cat Pet.txt PackAnimals.txt > HumanFriends.txt
+   15  cat Pet.txt PackAnimals.txt > HumanFriends.txt
+   16  echo HumanFriends.txt 
+   17  cat HumanFriends.txt 
+   18  mkdir New
+   19  ьmv HumanFriends.txt ../New
+   20  �mv HumanFriends.txt ../New
+   21  mv HumanFriends.txt ../New
+   22  dpkg -i ~/Downloads/mysql-apt-config_0.8.30-1_all.deb
+   23  pwd
+   24  dpkg -i /home/loki/Downloads/mysql-apt-config_0.8.30-1_all.deb
+   25  apt update
+   26  apt install mysql-server mysql-client
+   27  dpkg -i /home/loki/Downloads/google-chrome-stable_current_amd64.deb
+   28  dpkg -�l google-chrome-stable_current_amd64.deb
+   29  dpkg -l google-chrome-stable_current_amd64.deb
+   30  dpkg -l google*
+   31  dpkg -l google-chrome-stable 126.0.6478.126-1 amd64
+   32  apt update
+   33  dpkg -l google-chrome-stable 126.0.6478.126-1 amd64
+   34  apt search google
+   35  dpkg -l google-chrome-stable*
+   36  dpkg -l google-chrome-stable 126.0.6478.126-1 amd64
+   37  purge google-chrome-stable 126.0.6478.126-1 amd64
+   38  remove google-chrome-stable 126.0.6478.126-1 amd64
+   39  apt purge google-chrome-stable 126.0.6478.126-1 amd64
+   40  apt purge google-chrome-stable
+   41  history
+
+
